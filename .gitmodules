@@ -1,0 +1,3 @@
+[submodule "studyNotes"]
+	path = studyNotes
+	url = https://github.com/MasterLibraries/studyNotes.git
