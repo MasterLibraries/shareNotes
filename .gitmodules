@@ -1,6 +1,6 @@
 [submodule "studyNotes"]
 	path = studyNotes
-	url = git@github.com:MasterLibraries/studyNotes.git
+	url = https://github.com/MasterLibraries/studyNotes.git
 [submodule ".obsidian"]
 	path = .obsidian
-	url = git@github.com:MasterLibraries/obPlugin.git
+	url = https://github.com/MasterLibraries/obPlugin.git
